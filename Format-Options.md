@@ -46,10 +46,10 @@ Here is a footnote[^1].
 - [ ] Task 1
 - [x] Task 2
 
-==Highlighted Text== 
+==Highlighted Text== Doesnt Work
 
-E = mc^2^
+E = mc^2^  Supertext doesn't work
 
-H~2~O
+H~2~O subscript doesn't (?) work
 
-<div style="color: red;">Red Text</div>
+`<div style="color: red;">Red Text</div>` Doesn't work
